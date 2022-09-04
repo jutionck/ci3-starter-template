@@ -1,0 +1,13 @@
+{
+    "name": "jutioncandrakirana/backoffice",
+    "description": "Codeigniter 3 Starter Template",
+    "authors": [
+        {
+            "name": "Jution Candra Kirana",
+            "email": "jutionck@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.62"
+    }
+}
